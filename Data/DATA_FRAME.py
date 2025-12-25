@@ -1,0 +1,1 @@
+SHOPPERS_DATASET = "https://raw.githubusercontent.com/segorov90/My_data_set/refs/heads/main/online_shoppers_intention.csv"
